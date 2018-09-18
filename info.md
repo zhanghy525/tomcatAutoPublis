@@ -3,9 +3,10 @@
 ## 使用说明
 
 ### 说明总纲
-
-1. 配置setting.properties，使程序适应你的工作环境
-2. 配置copyFile.properties，指出你要复制的文件
+1. 下载[增量发版工具.zip](https://github.com/zhanghy525/tomcatAutoPublish/raw/master/增量发版工具.zip)
+2. 解压到任意目录
+3. 配置setting.properties，使程序适应你的工作环境
+4. 配置copyFile.properties，指出你要复制的文件
 
 ### setting.properties --工程配置文件
 
